@@ -36,5 +36,5 @@ I am particularly interested in Data Science, Machine Learning and Web Developme
 
 
 ### Contact me -
-
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/renita-kurian/)
 
