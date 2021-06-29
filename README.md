@@ -1,7 +1,5 @@
-👋 Hi, I’m Renita Kurian  
-
-![6](https://user-images.githubusercontent.com/66276711/123782192-acef9600-d8f2-11eb-97b6-b23457aada68.png)
-
+# 👋 Hi, I’m Renita Kurian  
+![h](https://user-images.githubusercontent.com/66276711/123794595-a10ad080-d900-11eb-9d29-3debd4d4679d.gif)
 I'm currently pursuing an undergraduate degree in Computer Science.  
 I love coding and all things tech. I enjoy working on projects, learning new technologies and solving problems with code.  
 I am particularly interested in Data Science, Machine Learning and Web Development.
