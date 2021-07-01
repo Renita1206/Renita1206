@@ -28,9 +28,7 @@ I am particularly interested in Data Science, Machine Learning and Web Developme
 ## Github Analysis
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Renita1206&theme=algolia&show_icons=true&count_private=true" width="47%" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Renita1206&theme=algolia" width="47%" />  
-
-[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Renita1206&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<!--[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Renita1206&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 
 ### Contact me -
