@@ -1,5 +1,4 @@
-![h](https://user-images.githubusercontent.com/66276711/123850482-b64f2180-d937-11eb-950a-fd283e21ea1d.gif)  
-
+ 
 **👋 Hi, I’m Renita Kurian**  
 I'm currently pursuing an undergraduate degree in Computer Science.  
 I love coding and all things tech. I enjoy working on projects, learning new technologies and solving problems with code.  
