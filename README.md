@@ -2,7 +2,7 @@
 **👋 Hi, I’m Renita Kurian**  
 I'm currently pursuing an undergraduate degree in Computer Science.  
 I love coding and all things tech. I enjoy working on projects, learning new technologies and solving problems with code.  
-I am particularly interested in Data Science, Machine Learning and Web Development.
+I am particularly interested in Data Science and Machine Learning.
 <br>
 
 ## Tech Stacks
