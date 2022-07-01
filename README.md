@@ -17,13 +17,11 @@ Check out my website: https://renita1206.github.io/
   <img alt="C" src="https://user-images.githubusercontent.com/66276711/123857151-99b6e780-d93f-11eb-8822-2974aac6aa5b.png" width="80" height="80" />   
   <img alt="C++" src="https://user-images.githubusercontent.com/66276711/123856526-d3d3b980-d93e-11eb-8a2b-3a288334d421.png" width="80" height="80" />   
   <img alt="Git" src="https://user-images.githubusercontent.com/66276711/123856530-d504e680-d93e-11eb-85e3-ca25f64a4b64.png" width="80" height="80" />   
-  <img alt="Github" src="https://user-images.githubusercontent.com/66276711/123856534-d504e680-d93e-11eb-91a5-015af81fa792.png" width="80" height="80" />
   <br>
   <img alt="HTML" src="https://user-images.githubusercontent.com/66276711/123856535-d59d7d00-d93e-11eb-8979-56b18438030b.png" width="80" height="80" />
   <img alt="CSS" src="https://user-images.githubusercontent.com/66276711/123856529-d46c5000-d93e-11eb-94cb-c11611c6c737.png" width="80" height="80" />
   <img alt="JS" src="https://user-images.githubusercontent.com/66276711/123856541-d6361380-d93e-11eb-9843-fa4dd37c5b80.png" width="80" height="80" />
   <img alt="Java" src="https://user-images.githubusercontent.com/66276711/123856537-d6361380-d93e-11eb-884d-5cc08a93a577.png" width="80" height="80" />
-  <img alt="Flutter" src="https://user-images.githubusercontent.com/66276711/123857443-eac6db80-d93f-11eb-9144-a3e44c7255f8.png" width="80" height="80" />
   <br>
   <br>
 </p>  
