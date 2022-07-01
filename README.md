@@ -1,8 +1,12 @@
  
 **👋 Hi, I’m Renita Kurian**  
-I'm currently pursuing an undergraduate degree in Computer Science.  
-I love coding and all things tech. I enjoy working on projects, learning new technologies and solving problems with code.  
-I am particularly interested in Data Science and Machine Learning.
+I am an undergrad student interested in exploring and working in the field of Computer Science. I like problem solving and enjoy working on challenging issues. I have experience programming in Python and C/C++. I am also familiar with Git, Java, HTML/CSS and Javascript. I like working with teams and collaborating but can also work on projects independently.I am interested in Machine Learning, Data Science and Cybersecurity.
+  
+  
+My other interests include reading psycho-thriller novels, binge watching shows on netflix, playing basketball, tennis and hitting the gym.
+  
+  
+Check out my website: https://renita1206.github.io/
 <br>
 
 ## Tech Stacks
