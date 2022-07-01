@@ -31,6 +31,8 @@ I am particularly interested in Data Science and Machine Learning.
 
 
 ### Contact me -
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="Discord logo" height="25" />](https://www.linkedin.com/in/renita-kurian)  [<img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bluecoder1206@gmail.com" />](mailto:bluecoder1206@gmail.com)  
-
+<a href="https://www.twitter.com/Renita_Kurian"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
+<a href="https://www.linkedin.com/in/renita-kurian"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+<a href="https://www.instagram.com/renita.k1206/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+[<img src="https://img.shields.io/badge/mail-%23E44035.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25/>](mailto:rrenita1206@gmail.com)  
 
