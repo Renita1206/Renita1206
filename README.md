@@ -1,5 +1,7 @@
  
 **👋 Hi, I’m Renita Kurian**  
+![B1](https://user-images.githubusercontent.com/66276711/185764616-9b12b440-d5c6-47bc-9aa5-4b60dae67fee.png)
+
 I am an undergrad student interested in exploring and working in the field of Computer Science. I like problem solving and enjoy working on challenging issues. I have experience programming in Python and C/C++. I am also familiar with Git, Java, HTML/CSS and Javascript. I like working with teams and collaborating but can also work on projects independently.I am interested in Machine Learning, Data Science and Cybersecurity.
   
   
