@@ -2,10 +2,14 @@
 **👋 Hi, I’m Renita Kurian**  
 ![B1](https://user-images.githubusercontent.com/66276711/185764616-9b12b440-d5c6-47bc-9aa5-4b60dae67fee.png)
 
-I am an undergrad student interested in exploring and working in the field of Computer Science. I like problem solving and enjoy working on challenging issues. I have experience programming in Python and C/C++. I am also familiar with Git, Java, HTML/CSS and Javascript. I like working with teams and collaborating but can also work on projects independently.
-  
-  
-My other interests include reading psycho-thriller novels, binge watching shows on netflix, playing basketball, tennis and hitting the gym.
+
+I am a final year student majoring in Computer Science with a passion for problem-solving and a relentless curiosity that fuels my desire to push boundaries and innovate.
+
+With a strong foundation in programming languages such as Python and Java, I have honed my skills in software development and data science. From creating simple automation scripts to implementing complex machine learning models, I thrive in the realm of logical and analytical thinking.
+
+While my heart lies in the back-end and data-driven domains, I understand the importance of well-rounded skills in the world of technology. Hence, I also possess a solid understanding of front-end development. I believe in the power of collaboration, and I am always excited to work alongside talented individuals to bring ideas to life and and be part of a team that drives technological innovation to new heights.
+
+Outside the realm of code, I find solace in the pages of books and the world of sports. I am an avid reader, exploring diverse topics and gaining knowledge that often surprises me with its practicality. When it comes to sports, I have a deep passion for tennis and basketball.
   
   
 Check out my website: https://renita1206.github.io/
